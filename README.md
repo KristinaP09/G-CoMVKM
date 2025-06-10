@@ -1,5 +1,8 @@
 # G-CoMVKM: Globally Collaborative Multi-View k-Means Clustering
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Paper](https://img.shields.io/badge/Paper-MDPI%20Electronics-blue)](https://www.mdpi.com/2079-9292/14/11/2129)
+
 This repository contains the implementation of the Globally Collaborative Multi-View k-Means (G-CoMVKM) clustering algorithm, as described in our paper published in Electronics journal.
 
 ## Overview
@@ -32,7 +35,7 @@ run_me_first
 
 % Set options
 options = struct();
-options.clusters = 3;       % Number of clusters
+options.clusters = 2;       % Number of clusters
 options.gamma = 0.5;        % Parameter for view weights (0-∞)
 options.theta = 0.1;        % Parameter for feature weights (>0)
 options.visualize = true;   % Show visualization
