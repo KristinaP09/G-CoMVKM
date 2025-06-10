@@ -119,3 +119,21 @@ ABSTRACT = {Multi-view (MV) data are increasingly collected from various fields,
 DOI = {10.3390/electronics14112129}
 }
 ```
+
+### 💫 Beyond the "Impossible"
+
+As Arthur C. Clarke said, "The only way of discovering the limits of the possible is to venture a little way past them into the impossible."
+
+We didn't just venture—we blazed a trail:
+
+- Where they saw complexity, we found elegance
+- Where they predicted failure, we achieved excellence
+- Where they set limits, we broke boundaries
+- Where they said "impossible," we said "watch us"
+
+To aspiring researchers: Let our journey be a reminder that in science, "impossible" is often just a challenge waiting to be accepted. The boundaries of what's possible are meant to be pushed, tested, and ultimately redefined.
+
+## Contact
+
+- **Kristina P. Sinaga**
+- Email: kristinasinaga41@gmail.com
