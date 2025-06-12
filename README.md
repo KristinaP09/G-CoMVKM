@@ -55,7 +55,7 @@ disp(dh);
 Run the demonstration script to see G-CoMVKM in action with synthetic data:
 
 ```matlab
-demo_G_CoMVKM
+demo_G_CoMVKM_2V2D2C
 ```
 
 ### Advanced Usage
@@ -96,7 +96,7 @@ After running G-CoMVKM, you will obtain several outputs:
 
 - `G_CoMVKM.m`: Main algorithm implementation
 - `run_G_CoMVKM.m`: Wrapper function with parameter validation and visualization
-- `demo_G_CoMVKM.m`: Demonstration script with synthetic data
+- `demo_G_CoMVKM_2V2D2C.m`: Demonstration script with synthetic data
 - `G_CoMVKM_guide.m`: Comprehensive guide with usage examples
 - `run_me_first.m`: Initialization script to set up paths
 
